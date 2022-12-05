@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.reset {
+  background-color: aqua;
+  color: rgb(12, 12, 12);
+  width: 100px;
+  text-align: center;
+  border: dotted;
+  height: 100px;
+  margin: auto;
+  display: none;
+}
+
+.restartButton {
+  margin: auto;
+}
